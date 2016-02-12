@@ -21,4 +21,8 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
-
+External Resources
+==================
+Part I background picture: http://www.nipic.com/show/11638895.html
+http://www.w3schools.com/html/default.asp
+http://www.w3schools.com/css/default.asp
